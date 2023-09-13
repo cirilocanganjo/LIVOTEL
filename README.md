@@ -1,4 +1,4 @@
-<h1>Livoel</h1>
+<h1>Livotel</h1>
 
 <p>
 O livotel é uma plataforma pública que tem como finalidade auxiliar os estudantes do território Angolano a informarem-se sobre 
